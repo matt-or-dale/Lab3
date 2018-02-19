@@ -1,0 +1,34 @@
+p{
+  background-color: red;
+  color: white;
+  font-family: "Times New Roman";
+  font-size: 16pt;
+}
+p.bio{
+  background-color: green;
+  color: black;
+}
+p.web{
+  background-color: orange;
+  color: blue;
+}
+
+body{
+  background-color: black;
+  background-image: url(ku.jpeg);
+  background-size: 75%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top;
+}
+h1{
+  color: white;
+}
+a{
+  background-color: blue;
+  color: white;
+}
+a:hover{
+  background-color: white;
+  color: red;
+}
